@@ -1,7 +1,7 @@
 # vim-empty-insert
 
 - GitHub profile: https://github.com/Greduan/
-- GitHub repo: https://github.com/Greduan/REPO/
+- GitHub repo: https://github.com/Greduan/vim-empty-insert/
 - Gittip: https://www.gittip.com/Greduan/
 - Twitter: https://twitter.com/EduanLavaque/
 
@@ -10,6 +10,10 @@ basically that when a buffer is empty enter insert mode automatically, if it
 isn't empty then nothing happens, you're still in Normal mode.
 
 [hackcomment]: https://news.ycombinator.com/item?id=8340841
+
+However, this is probably a better solution to this problem: <https://github.com/kana/vim-skeleton>
+
+Unless you're a cool DIY person (like myself).
 
 ## Installation
 
