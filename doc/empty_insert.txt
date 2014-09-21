@@ -3,4 +3,48 @@
 ================================================================================
 CONTENTS                                                   *EmptyInsertContents*
 
-    
+   1. Introduction ..... |EmptyInsertIntroduction|
+   2. License .......... |EmptyInsertLicense|
+   3. Bugs ............. |EmptyInsertBugs|
+   4. Contributing ..... |EmptyInsertContributing|
+   5. Changelog ........ |EmptyInsertChangelog|
+
+
+================================================================================
+INTRODUCTION                                           *EmptyInsertIntroduction*
+
+You can find a copy of this in the README.md file, but I'll copy it here:
+>
+  An idea spawned by [this HackerNews comment][hackcomment].  The idea is
+  basically that when a buffer is empty enter insert mode automatically, if it
+  isn't empty then nothing happens, you're still in Normal mode.
+
+  [hackcomment]: https://news.ycombinator.com/item?id=8340841
+
+  However, this is probably a better solution to this problem:
+  <https://github.com/kana/vim-skeleton>
+
+  Unless you're a cool DIY person (like myself).
+<
+
+================================================================================
+LICENSE                                                     *EmptyInsertLicense*
+
+You can find a copy of the license in the LICENSE file.
+
+================================================================================
+BUGS                                                           *EmptyInsertBugs*
+
+You can find bugs, issues or other problems and solutions or possibly solutions
+in the GitHub repo where you got this plugin from. ;)
+
+================================================================================
+CONTRIBUTING                                           *EmptyInsertContributing*
+
+You can find a copy of the contributing guidelines in the CONTRIBUTING.md file.
+
+
+================================================================================
+CHANGELOG                                                 *EmptyInsertChangelog*
+
+You can find a copy of the changelog in the CHANGELOG.md file.
