@@ -11,7 +11,12 @@ isn't empty then nothing happens, you're still in Normal mode.
 
 [hackcomment]: https://news.ycombinator.com/item?id=8340841
 
-However, this is probably a better solution to this problem: <https://github.com/kana/vim-skeleton>
+It is important to note that it only works on buffers that have a physical
+location linked to them as well.  In other words, only works on buffers that
+are associated with a file in the file system.
+
+I realize that this is probably a better solution to this problem:
+<https://github.com/kana/vim-skeleton>
 
 Unless you're a cool DIY person (like myself).
 
