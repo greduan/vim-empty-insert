@@ -1,0 +1,6 @@
+*empty_insert.txt* Enter insert mode if buffer is empty
+
+================================================================================
+CONTENTS                                                   *EmptyInsertContents*
+
+    
