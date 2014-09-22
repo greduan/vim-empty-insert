@@ -26,7 +26,7 @@ Use your favorite plugin manager.
 
 I prefer [vim-plug](https://github.com/junegunn/vim-plug):
 
-1. Add `Plug 'Greduan/REPO'` to your `.vimrc` file.
+1. Add `Plug 'Greduan/vim-empty-insert'` to your `.vimrc` file.
 1. Run `:PlugInstall`
 
 ## Usage
