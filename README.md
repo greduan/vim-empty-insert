@@ -2,7 +2,7 @@
 
 - GitHub profile: https://github.com/Greduan/
 - GitHub repo: https://github.com/Greduan/vim-empty-insert/
-- Gittip: https://www.gittip.com/Greduan/
+- Gratipay: https://www.gratipay.com/Greduan/
 - Twitter: https://twitter.com/EduanLavaque/
 
 An idea spawned by [this HackerNews comment][hackcomment].  The idea is
@@ -22,10 +22,16 @@ Unless you're a cool DIY person (like myself).
 
 ## Installation
 
-You can get the latest stable and/or development version from the GitHub
-repo. <https://github.com/Greduan/vim-empty-insert>
+Use your favorite plugin manager.
 
-More detailed instructions coming soon.
+I prefer [vim-plug](https://github.com/junegunn/vim-plug):
+
+1. Add `Plug 'Greduan/REPO'` to your `.vimrc` file.
+1. Run `:PlugInstall`
+
+## Usage
+
+This particular Vim plugin you can just install and it'll do its magic. :)
 
 ## License
 
